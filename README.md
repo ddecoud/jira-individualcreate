@@ -1,3 +1,3 @@
 # jira
 
-Scripts for creating jira tickets and CSV examples
+Scripts for creating a batch of jira tickets 
